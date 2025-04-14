@@ -1,9 +1,11 @@
 Steps in ML Project
-Step 1 : Look at the big picture
+Step 1 : 
+Look at the big picture
 Frame the problem
 What are the input and output?
 What is the business objective?
 What is the current solution?
+
 Select a performance measure
 Regression
 Mean Squared Error (MSE)
