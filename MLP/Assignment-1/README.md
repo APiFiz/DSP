@@ -1,15 +1,15 @@
-Steps in ML Project
-Step 1 : 
-Look at the big picture
-Frame the problem
-What are the input and output?
-What is the business objective?
-What is the current solution?
+# Steps in ML Project
+## Step 1 : 
+### Look at the big picture
+- Frame the problem
+- What are the input and output?
+- What is the business objective?
+- What is the current solution?
 
-Select a performance measure
-Regression
-Mean Squared Error (MSE)
-Mean Absolute Error (MAE)
+### Select a performance measure
+#### Regression
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
 Classification
 Precision
 Recall
